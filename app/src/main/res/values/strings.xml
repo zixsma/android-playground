@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Playground</string>
+    <string name="text_awesome">Awesome %1$s</string>
+</resources>
