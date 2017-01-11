@@ -20,5 +20,8 @@
         android:id="@+id/view_pager"
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:layout_below="@id/text_view"/>
+        android:layout_below="@id/text_view"
+        android:clipToPadding="false"
+        android:paddingEnd="50dp"
+        android:paddingStart="50dp" />
 </RelativeLayout>
